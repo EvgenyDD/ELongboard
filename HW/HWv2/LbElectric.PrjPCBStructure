@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Main.SchDoc
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=CTR1|SchDesignator=CTR1|FileName=Controller.SchDoc|SymbolType=Normal|RawFileName=Controller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=DRV1|SchDesignator=DRV1|FileName=DriverSPI.SchDoc|SymbolType=Normal|RawFileName=DriverSPI.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=PWR1|SchDesignator=PWR1|FileName=PowerHalfBridge.SchDoc|SymbolType=Normal|RawFileName=PowerHalfBridge.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
